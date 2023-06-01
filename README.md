@@ -1,2 +1,2 @@
 # python-django
-Ushbu repository django frameworkida qilingan codelar jamlangan
+Ushbu repositoryda django frameworkida qilingan codelar jamlangan
